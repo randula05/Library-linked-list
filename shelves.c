@@ -34,7 +34,7 @@ void func(){
     // Querries
     int q;
     scanf("%d",&q);
-    // getchar();
+    getchar();
 
     char action;
     int num2;
